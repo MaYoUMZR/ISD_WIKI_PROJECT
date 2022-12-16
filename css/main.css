@@ -1,0 +1,29 @@
+body {
+    margin:0;
+}
+a {
+    color:black;
+    text-decoration: none;
+}
+#warp img{
+    width:400px;
+}
+#warp {
+    text-align: center;
+}
+#upper-warp #under-warp{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#upper-warp img #under-warp img{
+    display:inline;
+}
+.top-banner {
+    background-image:linear-gradient(#EF487F, #FF66C1);
+    font-size: 60px;
+    text-align: center;
+    margin:0;
+    margin-bottom: 50px;
+    padding: 30px;
+}
